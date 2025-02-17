@@ -5,9 +5,12 @@
 🔹 **Working On:** Data Analysis, Machine Learning, MLOps, and LLMs  
 🔹 **Open to Work:** Looking for **remote opportunities** with any multinational company  
 
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1fG6y0oWIn0CKJicXKWT2O5orj8bfK1yQ/view?usp=sharing) 
+
+📩 **Contact me:** [mehedihasan398ps@gmail.com](mailto:mehedihasan398ps@gmail.com) 
 ---
 
-## 🛠 **Skills & Technologies**  
+<!-- ## 🛠 **Skills & Technologies**  
 
 💻 **Programming:** Python (Data Structures, OOP, Pandas, NumPy, TensorFlow, PyTorch), SQL, Java, C  
 📡 **Machine Learning:** Scikit-learn, NLP (Mistral 7B, Phi-2, BERT, RoBERTa), CNN, LSTMs  
@@ -16,7 +19,7 @@
 ☁️ **Cloud & Big Data:** Google Colab, Hugging Face  
 🌐 **Web Development:** HTML, CSS, JavaScript, Flask, PHP (Laravel)  
 
----
+--- -->
 
 ## 📌 **Featured Projects**  
 
@@ -37,12 +40,12 @@
 
 ---
 
-### 🛒 **[An Interactive Shopping Web Page](https://github.com/MehediHasan-ds/An-Interactive-Shopping-Web-Page.git)**  
+<!-- ### 🛒 **[An Interactive Shopping Web Page](https://github.com/MehediHasan-ds/An-Interactive-Shopping-Web-Page.git)**  
 📌 A simple and interactive **e-commerce shopping cart** project!  
 🖥 **Built with:** HTML, CSS, JavaScript  
 🎯 **Features:** Users can browse products, add to cart, and manage items seamlessly.  
 
-👉 More projects on my **[GitHub Portfolio](https://mehedihasan-ds.github.io/Portfolio/)**  
+👉 More projects on my **[GitHub Portfolio](https://mehedihasan-ds.github.io/Portfolio/)**   -->
 
 ---
 ## 📫 **Contact Me**  
