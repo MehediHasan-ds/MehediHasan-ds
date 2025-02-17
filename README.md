@@ -49,13 +49,14 @@
 
 📩 **Email:** [mehedihasan398ps@gmail.com](mailto:mehedihasan398ps@gmail.com)  
 💼 **LinkedIn:** [Mehedi Hasan](https://www.linkedin.com/in/mehedi-hasan-4553a4274/)  
-🌐 **Portfolio:** [My Portfolio Website](https://mehedihasan-ds.github.io/Portfolio/)  
+🌐 **Portfolio:** [My Portfolio Website](https://mehedihasan-ds.github.io/Portfolio/) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=MehediHasan-ds&color=blue&style=flat)
 
 ---
 
 ## 📊 **GitHub Stats**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=MehediHasan-ds&color=blue&style=flat)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
 
