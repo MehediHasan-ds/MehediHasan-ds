@@ -45,14 +45,6 @@
 👉 More projects on my **[GitHub Portfolio](https://mehedihasan-ds.github.io/Portfolio/)**  
 
 ---
-
-## 📊 **GitHub Stats**  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
-
----
-
 ## 📫 **Contact Me**  
 
 📩 **Email:** [mehedihasan398ps@gmail.com](mailto:mehedihasan398ps@gmail.com)  
@@ -60,3 +52,12 @@
 🌐 **Portfolio:** [My Portfolio Website](https://mehedihasan-ds.github.io/Portfolio/)  
 
 ---
+
+## 📊 **GitHub Stats**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=MehediHasan-ds&color=blue&style=flat)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
+
+---
+
