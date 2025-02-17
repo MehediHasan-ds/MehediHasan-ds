@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Mehedi Hasan** | A Data Science Enthusiast  
+# 👋 Hi, I'm **Mehedi Hasan** | A Data Science Enthusiast  
 🚀 **AI | Machine Learning | Data Analysis**  
 
 🔹 **Currently Studying:** Computer Science & Engineering (CSE) at **East West University**  
@@ -7,7 +7,6 @@
 
 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1fG6y0oWIn0CKJicXKWT2O5orj8bfK1yQ/view?usp=sharing) 
 
-📩 **Contact me:** [mehedihasan398ps@gmail.com](mailto:mehedihasan398ps@gmail.com) 
 ---
 
 <!-- ## 🛠 **Skills & Technologies**  
@@ -50,7 +49,7 @@
 ---
 ## 📫 **Contact Me**  
 
-📩 **Email:** [mehedihasan398ps@gmail.com](mailto:mehedihasan398ps@gmail.com)  
+📩 **Email:** [mehedi.ds.engr@gmail.com](mailto:mehedi.ds.engr@gmail.com)  
 💼 **LinkedIn:** [Mehedi Hasan](https://www.linkedin.com/in/mehedi-hasan-4553a4274/)  
 🌐 **Portfolio:** [My Portfolio Website](https://mehedihasan-ds.github.io/Portfolio/) 
 
