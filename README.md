@@ -9,12 +9,12 @@
 
 ## 🛠 **Skills & Technologies**  
 
-💻 **Programming:** Python 🐍 (Data Structures, OOP, Pandas, NumPy, TensorFlow, PyTorch), SQL 🗄️, Java ☕, C 🔣  
-📡 **Machine Learning:** Scikit-learn 🤖, NLP (Mistral 7B, Phi-2, BERT, RoBERTa) 🗣️, CNN, LSTMs  
-📊 **Data Analysis & Visualization:** Data Cleaning 🧹, Power BI 📈, Excel 📑, Matplotlib 🎨, Seaborn 📊  
-🛢 **Database Management:** MySQL 🏛, PostgreSQL 🗂, Oracle SQL 📟, MongoDB 🍃  
-☁️ **Cloud & Big Data:** Google Colab 🚀, Hugging Face 🤗  
-🌐 **Web Development:** HTML 🏗, CSS 🎨, JavaScript ⚡, Flask 🧪, PHP (Laravel) 🌍  
+💻 **Programming:** Python  (Data Structures, OOP, Pandas, NumPy, TensorFlow, PyTorch), SQL , Java , C   
+📡 **Machine Learning:** Scikit-learn , NLP (Mistral 7B, Phi-2, BERT, RoBERTa) , CNN, LSTMs  
+📊 **Data Analysis & Visualization:** Data Cleaning , Power BI , Excel , Matplotlib , Seaborn   
+🛢 **Database Management:** MySQL , PostgreSQL , Oracle SQL , MongoDB 
+☁️ **Cloud & Big Data:** Google Colab , Hugging Face   
+🌐 **Web Development:** HTML , CSS , JavaScript , Flask , PHP (Laravel) 
 
 ---
 
@@ -26,6 +26,13 @@
 📌 This project presents an **interactive dashboard** analyzing **dengue cases in Dhaka, Bangladesh**.  
 📊 **Tools Used:** Excel functions, Pivot Tables, Data Cleaning, Visualizations  
 🎯 **Goal:** Help health authorities make informed decisions based on data insights.  
+
+---
+
+### 🛒 **[Mental Health Classification](https://colab.research.google.com/drive/1Sb6cmI6vWbgAyqzQ5U6gGNErpCOO892p?usp=sharing)** **[& BMI Prediction Using ML](https://colab.research.google.com/drive/1f56v8PjDDms7kyicMVNmG-l1WQICm4by?usp=sharing)**
+📌 Developed classification model to predict mental health conditions (depression) and BMI Prediction using Linear Regression, Logistic Regression,Deccision Tree, SVM,SVC, and fine-tuned with Grid Search.   
+🖥 **Built with:** Python, Scikit-learn, Grid Search, StandardScaler, Seaborn, Matplotlib
+🎯 **Results:** Achieved best 83% accuracy for mental health classification and best 8.59e-16 MSE for BMI Prediction among all the models. 
 
 ---
 
