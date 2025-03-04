@@ -11,6 +11,13 @@
 
 ## **Ongoing Projects**  
 
+### **[E-Commerce Sales Analysis with Power BI](https://github.com/MehediHasan-ds/E-Commerce-Sales-Analysis-with-Power-BI.git)**
+🔹 **Analysis**: Evaluated sales, revenue, profit trends, return rates, and geographical performance, identifying key growth opportunities. Leveraged customer segmentation and product insights to optimize pricing and marketing strategies.  
+🔹 **Modeling**: Implemented snowflake schema for efficient data organization, linking hierarchical product categories and regional sales data.  
+🔹 **Future Work**: Expand analysis with cohort tracking, AI-driven sales forecasting, and deeper territory-based performance insights.
+
+---
+
 ### **[Data Analysis on Hospitality Domain using Power BI](https://github.com/MehediHasan-ds/Hospitality-Management-Data-Analysis-with-Power-BI.git)**  
 🔹 Conducting an **in-depth analysis** of customer behavior, revenue trends, and booking patterns in the hospitality industry.  
 🔹 Designing **interactive Power BI dashboards** to visualize key business insights.  
@@ -18,11 +25,11 @@
 
 ---
 
-### **[An-End-to-End Interactive Shopping Website](https://github.com/MehediHasan-ds/An-Interactive-Shopping-Web-Page.git)**  
+<!-- ### **[An-End-to-End Interactive Shopping Website](https://github.com/MehediHasan-ds/An-Interactive-Shopping-Web-Page.git)**  
 🔹 Developing a **fully interactive e-commerce platform** with product browsing, cart management, and checkout features.  
 🔹 Implementing **responsive UI/UX** using **HTML, CSS, and JavaScript** for a seamless shopping experience.  
-🔹 Working to integrate backend functionalities for **user authentication and order management**. 
-🔹 Keeping it structured so that **End-to-End data Analysis can be done and make recommendations and decisions using Power BI and Machine Learning**.  
+🔹 Working to integrate backend functionalities for **user authentication and order management**.  
+🔹 Keeping it structured so that **End-to-End data Analysis can be done and make recommendations and decisions using Power BI and Machine Learning**.    -->
 
 ---
 
