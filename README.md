@@ -5,7 +5,7 @@
 🔹 **Working On:** Data Analysis, Machine Learning, MLOps, and LLMs  
 🔹 **Open to Work:** Looking for **remote opportunities** with any multinational company  
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1fG6y0oWIn0CKJicXKWT2O5orj8bfK1yQ/view?usp=sharing)  
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/14uYrzsv9ClsBNkotcU35F2rW1I1DWiwk/view?usp=sharing)  
 
 ## **Contact Me**  
 
