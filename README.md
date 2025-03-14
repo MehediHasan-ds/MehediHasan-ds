@@ -18,7 +18,7 @@
 
 🌟 Here are some of my best projects:  
 
-### **[Hospitality Management Data Analysis Dashboard (Power BI) ](https://github.com/MehediHasan-ds/Hospitality-Management-Data-Analysis-with-Power-BI.git)
+### [Hospitality Management Data Analysis Dashboard (Power BI) ](https://github.com/MehediHasan-ds/Hospitality-Management-Data-Analysis-with-Power-BI.git)
 📌 This project presents an interactive Power BI dashboard analyzing hospitality management data for a chain of hotels.  
 📊 **Tools Used:** Power BI, DAX, Data Modeling, Data Cleaning, Visualizations  
 🎯 **Goal:** Provide actionable insights to optimize revenue, improve occupancy rates, enhance customer experience, and streamline operations for hotel stakeholders.  
