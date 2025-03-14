@@ -92,5 +92,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
 
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=mehediNabil24&theme=dark&hide_border=false)
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=MehediHasan-ds&theme=dark&hide_border=false)
 ---
