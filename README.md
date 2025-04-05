@@ -55,6 +55,7 @@
 
 🔹 **Modeling:** Implemented a **star schema** to organize data efficiently, linking hierarchical product categories and regional sales data for seamless analysis.  
 🔹 **Future Work:** Insights and recommendations coming soon  
+ 
 --- 
 
 ### **[E-Commerce Data Analysis with SQL and Power BI](https://github.com/MehediHasan-ds/E-Commerce-Data-Analysis-with-SQL-and-Power-BI.git)**  
