@@ -25,12 +25,12 @@
 
 ---
 
-### **[E-Commerce Sales Analysis with Power BI](https://github.com/MehediHasan-ds/E-Commerce-Sales-Analysis-with-Power-BI.git)**
+<!-- ### **[E-Commerce Sales Analysis with Power BI](https://github.com/MehediHasan-ds/E-Commerce-Sales-Analysis-with-Power-BI.git)**
 🔹 **Analysis**: Evaluated sales, revenue, profit trends, return rates, and geographical performance, identifying key growth opportunities. Leveraged customer segmentation and product insights to optimize pricing and marketing strategies.  
 🔹 **Modeling**: Implemented snowflake schema for efficient data organization, linking hierarchical product categories and regional sales data.  
 🔹 **Future Work**: Expand analysis with cohort tracking, AI-driven sales forecasting, and deeper territory-based performance insights.
 
----
+--- -->
 
 ### **[Dengue Data Analysis Dashboard (Excel)](https://github.com/MehediHasan-ds/Data-Analysis-Projects.git)**  
 📌 This project presents an **interactive dashboard** analyzing **dengue cases in Dhaka, Bangladesh**.  
