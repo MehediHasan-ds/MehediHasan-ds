@@ -25,6 +25,15 @@
 
 ---
 
+### **[RFM Segmentation and Cohort Analysis on Sales Data in Power BI](https://github.com/MehediHasan-ds/RFM-segmentation-and-Cohort-analysis-on-Sales-Data-in-Power-BI.git)**  
+
+🔹 **Analysis:** Evaluated sales, revenue, profit trends, return rates, and geographical performance, leveraging **Cohort Analysis** to optimize pricing, marketing, and customer retention strategies. **RFM segmentation** is done to focus on high-value customers for personalized marketing.  
+
+🔹 **Modeling:** Implemented a **star schema** to organize data efficiently, linking hierarchical product categories and regional sales data for seamless analysis.  
+🔹 **Future Work:** Insights and recommendations coming soon  
+ 
+--- 
+
 <!-- ### **[E-Commerce Sales Analysis with Power BI](https://github.com/MehediHasan-ds/E-Commerce-Sales-Analysis-with-Power-BI.git)**
 🔹 **Analysis**: Evaluated sales, revenue, profit trends, return rates, and geographical performance, identifying key growth opportunities. Leveraged customer segmentation and product insights to optimize pricing and marketing strategies.  
 🔹 **Modeling**: Implemented snowflake schema for efficient data organization, linking hierarchical product categories and regional sales data.  
@@ -49,14 +58,6 @@
 
 ## **Ongoing Projects**  
 
-### **[RFM Segmentation and Cohort Analysis on Sales Data in Power BI](https://github.com/MehediHasan-ds/RFM-segmentation-and-Cohort-analysis-on-Sales-Data-in-Power-BI.git)**  
-
-🔹 **Analysis:** Evaluated sales, revenue, profit trends, return rates, and geographical performance, leveraging **Cohort Analysis** to optimize pricing, marketing, and customer retention strategies. **RFM segmentation** is done to focus on high-value customers for personalized marketing.  
-
-🔹 **Modeling:** Implemented a **star schema** to organize data efficiently, linking hierarchical product categories and regional sales data for seamless analysis.  
-🔹 **Future Work:** Insights and recommendations coming soon  
- 
---- 
 
 ### **[E-Commerce Data Analysis with SQL and Power BI](https://github.com/MehediHasan-ds/E-Commerce-Data-Analysis-with-SQL-and-Power-BI.git)**  
 🔹 **Analysis:** Data Exploration, Raw Data Preprocessing is done, Doing Further data preprocessing  
