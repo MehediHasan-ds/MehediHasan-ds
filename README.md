@@ -19,9 +19,9 @@
 🌟 Here are some of my best projects:  
 
 ### [Hospitality Management Data Analysis Dashboard (Power BI) ](https://github.com/MehediHasan-ds/Hospitality-Management-Data-Analysis-with-Power-BI.git)
-📌 This project presents an interactive Power BI dashboard analyzing hospitality management data for a chain of hotels.  
-📊 **Tools Used:** Power BI, DAX, Data Modeling, Data Cleaning, Visualizations  
-🎯 **Goal:** Provide actionable insights to optimize revenue, improve occupancy rates, enhance customer experience, and streamline operations for hotel stakeholders.  
+🔹 This project presents an interactive Power BI dashboard analyzing hospitality management data for a chain of hotels.  
+🔹 **Tools Used:** Power BI, DAX, Data Modeling, Data Cleaning, Visualizations  
+🔹 **Goal:** Provide actionable insights to optimize revenue, improve occupancy rates, enhance customer experience, and streamline operations for hotel stakeholders.  
 
 ---
 
@@ -30,7 +30,7 @@
 🔹 **Analysis:** Evaluated sales, revenue, profit trends, return rates, and geographical performance, leveraging **Cohort Analysis** to optimize pricing, marketing, and customer retention strategies. **RFM segmentation** is done to focus on high-value customers for personalized marketing.  
 
 🔹 **Modeling:** Implemented a **star schema** to organize data efficiently, linking hierarchical product categories and regional sales data for seamless analysis.  
-🔹 **Future Work:** Insights and recommendations coming soon  
+🔹 **Goal:** Provided actionable Insights and recommendations based on sales, revenue, quantity, regions with customers analysis to make faster growth of the company while making much more revenue than before.
  
 --- 
 
@@ -42,17 +42,17 @@
 --- -->
 
 ### **[Dengue Data Analysis Dashboard (Excel)](https://github.com/MehediHasan-ds/Data-Analysis-Projects.git)**  
-📌 This project presents an **interactive dashboard** analyzing **dengue cases in Dhaka, Bangladesh**.  
-📊 **Tools Used:** Excel functions, Pivot Tables, Data Cleaning, Visualizations  
-🎯 **Goal:** Help health authorities make informed decisions based on data insights.  
+🔹 This project presents an **interactive dashboard** analyzing **dengue cases in Dhaka, Bangladesh**.  
+🔹 **Tools Used:** Excel functions, Pivot Tables, Data Cleaning, Visualizations  
+🔹 **Goal:** Help health authorities make informed decisions based on data insights.  
 
 ---
 
 ### **[Health State Classification](https://colab.research.google.com/drive/1Sb6cmI6vWbgAyqzQ5U6gGNErpCOO892p?usp=sharing) & [BMI Prediction Using ML](https://colab.research.google.com/drive/1f56v8PjDDms7kyicMVNmG-l1WQICm4by?usp=sharing)**  
-📌 Developed classification models to predict **mental health state conditions (depression)** and **BMI prediction** using multiple algorithms such as **Linear Regression, Logistic Regression, Decision Tree, SVM, SVC**, and fine-tuned with **Grid Search**.  
+🔹 Developed classification models to predict **mental health state conditions (depression)** and **BMI prediction** using multiple algorithms such as **Linear Regression, Logistic Regression, Decision Tree, SVM, SVC**, and fine-tuned with **Grid Search**.  
 
-🖥 **Built with:** Python, Scikit-learn, Grid Search, StandardScaler, Seaborn, Matplotlib  
-🎯 **Results:** Achieved **83% accuracy** for mental health classification and **8.59e-16 MSE** for BMI Prediction, outperforming other models.  
+🔹 **Built with:** Python, Scikit-learn, Grid Search, StandardScaler, Seaborn, Matplotlib  
+🔹 **Results:** Achieved **83% accuracy** for mental health classification and **8.59e-16 MSE** for BMI Prediction, outperforming other models.  
 
 ---
 
