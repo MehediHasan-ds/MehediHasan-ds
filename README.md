@@ -59,7 +59,7 @@ Part of a cross-functional team building AI-powered business solutions across va
 - Worked on automation, intelligent agents, and AI-enhanced business processes for multiple client projects.
 - Built scalable, production-ready AI systems aligned with real-world business needs.
 
-### **University Teaching Assistant** | East West University, Dhaka
+### **University Teaching Assistant** | [East West University](https://www.ewubd.edu/), Dhaka
 *Feb 2023 – July 2024*
 
 ---
