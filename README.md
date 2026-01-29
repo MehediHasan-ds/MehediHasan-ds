@@ -66,12 +66,18 @@ Part of a cross-functional team building AI-powered business solutions across va
 
 ## Projects
 
-### **racoai.io**: RACOAI Website v1 & RacoChat Integration
+### **racoai.io**: RACOAI Website v1 & RacoChat Integration | [RACO AI](https://racoai.io)
 *November 2025 | Role: Full-Stack AI Dev & Product Manager*
 - Designed and developed the full version-1 production website for **racoai.io** within 7 days.
 - Built and integrated **RacoChat**, an AI-powered conversational chatbot system for real-time natural language interaction as a SaaS product.
 - Developed client and project management modules with **Stripe payment**, enabling seamless internal workflows.
 - **Tools:** FastAPI, React.js, WebSockets, PostgreSQL, AI Chat Integration, Full-Stack Engineering.
+
+### **Vosk Large vs Whisper Small Benchmark** | [Repository](https://github.com/MehediHasan-ds/vosk_large_whisper_small_benchmark.git)
+*ASR Model Evaluation Project* | *Dec 2025*
+- Conducted a comparative analysis between **Vosk Large** and **OpenAI Whisper Small** models for offline speech recognition.
+- Evaluated performance metrics including Word Error Rate (WER), inference speed, and resource consumption on diverse audio datasets.
+- **Key Technologies:** Python, Vosk, OpenAI Whisper, JiWER, Audio Processing.
 
 ### **answersmart**: Multi-Agent AI-Human Communication Platform
 *Jun 2025 - Aug 2025 | Role: Team Project (AI and Backend Development)*
@@ -80,7 +86,7 @@ Part of a cross-functional team building AI-powered business solutions across va
 - Implemented **lead generation** from conversation using RAG pipelines.
 - **Tools:** FastAPI, Twilio, WebSocket, WebRTC, ChatGPT API, ElevenLabs, Webhooks, Custom Tool Creation.
 
-### **PsychoHealer**: AI-Powered Psychology Assistant
+### **PsychoHealer**: AI-Powered Psychology Assistant | [Repository](https://github.com/MehediHasan-ds/PsychoHealer.git)
 *Jun 2025 | Role: Individual Project*
 - Built an intelligent, privacy-first mental health assistant integrating **GPT-3.5, LLaMA 3.3, and DeepSeek** with automatic model selection.
 - Implemented crisis detection, session memory, and curated YouTube-based therapeutic content, accessible via web, API, and Telegram.
@@ -92,6 +98,7 @@ Part of a cross-functional team building AI-powered business solutions across va
 - Designed a feature extraction pipeline with word cloud, bigram, and trigram analysis for deeper pattern insight.
 - Applied random oversampling and model-specific preprocessing.
 - **Key Technologies:** BERT, RoBERTa, Phi-2, Python.
+
 
 ## Research & Publications
 
@@ -111,7 +118,6 @@ Part of a cross-functional team building AI-powered business solutions across va
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
-
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=MehediHasan-ds&theme=dark&hide_border=false)
 
 ---
