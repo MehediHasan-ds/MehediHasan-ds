@@ -1,119 +1,120 @@
 # Mehedi Hasan
 
-### Lead AI Solution Engineer | Generative AI & LLM Specialist
+**Lead AI Solution Engineer | Generative AI & LLM Specialist**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MehediHasan-ds&label=Profile%20Views)](https://github.com/MehediHasan-ds)
+[![Email](https://img.shields.io/badge/Email-mehedi.ds.engr%40gmail.com-red)](mailto:mehedi.ds.engr@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B8801857807034-blue)](tel:+8801857807034)
+[![GitHub](https://img.shields.io/badge/GitHub-MehediHasan--ds-black?logo=github)](https://github.com/MehediHasan-ds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedi%20Hasan-blue?logo=linkedin)](https://linkedin.com/in/mehedi-hasan-ds)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green)]()
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="mailto:mehedi.ds.engr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-mehedi.ds.engr%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="mehedi.ds.engr@gmail.com" /></a>
-<a href="tel:+8801857807034" target="blank"><img align="center" src="https://img.shields.io/badge/Phone-%2B8801857807034-blue?style=flat-square&logo=whatsapp&logoColor=white" alt="+8801857807034" /></a>
-<a href="https://linkedin.com/in/mehedi-hasan-ds" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Mehedi%20Hasan-blue?style=flat-square&logo=linkedin&logoColor=white" alt="mehedi-hasan-ds" /></a>
-<a href="https://github.com/MehediHasan-ds" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-MehediHasan--ds-black?style=flat-square&logo=github&logoColor=white" alt="MehediHasan-ds" /></a>
-</p>
+I’m currently serving as **Lead AI Solution Engineer at Raco AI**, collaborating with cross-functional frontend, backend, and AI teams to deliver scalable, AI-driven business solutions. In this role, I translate executive requirements into detailed SRS, lead system architecture design, and oversee end-to-end delivery integrating LLMs, ASR-STT-TTS, VL and Video Generation models with RESTful APIs. I focus on building production-ready solutions using fine-tuned LLMs and agentic AI, while ensuring scalability, performance, team coordination, and measurable business impact.
 
 ---
 
-### 👨‍💻 About Me
-I’m currently serving as **Lead AI Solution Engineer at Raco AI**, where I bridge the gap between complex AI capabilities and real-world business solutions. I specialize in building scalable systems that integrate **LLMs, RAG, and Agentic AI** with robust backend architectures.
+## Skills
 
-My expertise includes:
-*   **Architecting AI Solutions:** Translating executive requirements into technical SRS and leading cross-functional teams (Frontend, Backend, AI).
-*   **Generative AI:** Fine-tuning and deploying LLMs (Mistral, LLaMA), and working with Multi-Modal models (Vision, Voice).
-*   **Full-Stack Integration:** Seamlessly integrating AI with RESTful APIs (FastAPI) and modern Frontends.
-
----
-
-### 📊 GitHub Statistics
-<p align="left">
-<a href="https://github.com/MehediHasan-ds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=tokyonight"/>
-</a>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediHasan-ds&theme=tokyonight" alt="MehediHasan-ds" />
-</p>
+- **AI & Agentic AI:** LangChain, LangGraph, MCP, LLM (Mistral, LLaMA, Phi-2, BERT, RoBERTa, Gemini, GPT), LLM Fine-Tuning & Deployment
+- **Computer Vision:** CLIP, BLIP, InternVL, CNN, DenseNet, ResNet, YOLO
+- **Speaker Recognition:** NVIDIA TiTANet Large
+- **ASR/STT/TTS:** Parakeet, Vosk, Whisper, Canary Qwen 2.5B, FastSpeech2 + HiFi-GAN
+- **Vision-Language Models:** InternVL, Qwen-Image-Edit-2509, Flux-Dev-2, OmniGen2
+- **Image-to-Video Generation:** Wan2.2
+- **RAG:** Pinecone, Weaviate
+- **System Design:** End-to-End AI System Design, AI Solution Architecture
+- **Database Management:** MySQL, PostgreSQL, Oracle SQL, MongoDB
+- **Cloud & Big Data:** AWS, Google Cloud, Supabase
+- **Web Development:** ReactJS, FastAPI, Django, Tailwind CSS, JavaScript
+- **Programming:** PyTorch, NumPy, TensorFlow, Python, Java, C
+- **Data Analysis:** Advanced DAX, Advanced Power BI, Power Query, Advanced Excel, Google Sheets
+- **Tools:** Docker, Docker Orchestration, Power BI, Metabase
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Experience Timeline
 
-#### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
-
-#### **Backend & Cloud**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-#### **Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-#### **Detailed Skills**
-*   **LLMs & Agentic AI:** LangGraph, MCP, Fine-Tuning (LoRA/QLoRA), Model Deployment.
-*   **Computer Vision:** CLIP, BLIP, YOLO, InternVL.
-*   **Audio AI:** ASR (Whisper, Vosk), TTS (FastSpeech2), Speaker Recognition.
-*   **Data Analysis:** Advanced Power BI (DAX), Metabase, Advanced Excel.
-
----
-
-### 💼 Experience
-
-#### **Lead AI Solution Engineer** | [RACO AI](https://racoai.io)
+### **Lead AI Solution Engineer** | [RACO AI](https://racoai.io)
 *November 2025 – Present*
-*   **Strategic Leadership:** Translate business vision into detailed technical SRS and lead system architecture.
-*   **Cross-Functional Management:** Coordinate Frontend, Backend, and AI teams for unified delivery.
-*   **Technical Execution:** Oversee integration of GenAI models, RAG pipelines, and complex backend logic.
 
-#### **Team Lead** | SM Technology
+Leading end-to-end AI solution delivery by translating executive requirements into scalable systems.
+- Gathering and analyzing business and technical requirements from CEO and COO, and converting them into detailed **Software Requirement Specifications (SRS)**.
+- Reviewing and validating SRS documents to ensure clarity, feasibility, and alignment with business objectives.
+- Leading execution by coordinating **frontend, backend, and AI teams**, managing core system architecture and development.
+- Overseeing implementation, ensuring timely delivery, scalability, performance, and business impact.
+- Acting as team lead by mentoring developers, resolving technical blockers, and driving cross-team communication.
+
+### **Team Lead** | SM Technology
 *August 2025 – October 2025*
-*   Managed development workflows and mentored junior developers.
-*   Delivered scalable client solutions focusing on business impact.
 
-#### **AI Developer** | SM Technology
+Leading a cross-functional team of frontend, backend, and AI developers.
+- Managing project workflows, ensuring collaboration between AI, frontend, and backend teams.
+- Overseeing delivery of client solutions with a focus on performance, scalability, and business impact.
+- Mentoring junior developers and coordinating cross-team communication to meet project goals.
+
+### **AI Developer** | SM Technology
 *May 2025 – Present*
-*   Designed end-to-end AI applications using LLMs and modern web frameworks.
-*   Developed intelligent automation agents for diverse industry use cases.
+
+Part of a cross-functional team building AI-powered business solutions across various industries.
+- Designed and developed AI applications end-to-end, integrating LLMs, RESTful APIs, and modern frontend interfaces.
+- Worked on automation, intelligent agents, and AI-enhanced business processes for multiple client projects.
+- Built scalable, production-ready AI systems aligned with real-world business needs.
+
+### **University Teaching Assistant** | East West University, Dhaka
+*Feb 2023 – July 2024*
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-#### **[PixieGPT (Thesis)](https://github.com/MehediHasan-ds)**
-*Scrum Master | NLP & LLM Fine-Tuning*
-*   Built a university inquiry chatbot using fine-tuned **Mistral 7B** and **T5**.
-*   Achieved high domain accuracy with curated datasets and QLoRA fine-tuning.
+### **racoai.io**
+**RACOAI Website v1 & RacoChat Integration**
+*November 2025 | Role: Full-Stack AI Dev & Product Manager*
+- Designed and developed the full version-1 production website for **racoai.io** within 7 days.
+- Built and integrated **RacoChat**, an AI-powered conversational chatbot system for real-time natural language interaction as a SaaS product.
+- Developed client and project management modules with **Stripe payment**, enabling seamless internal workflows.
+- **Tools:** FastAPI, React.js, WebSockets, PostgreSQL, AI Chat Integration, Full-Stack Engineering.
 
-#### **[racoai.io](https://racoai.io)**
-*Full-Stack AI Dev & PM*
-*   Developed the V1 production site and integrated **RacoChat** (AI SaaS) in 7 days.
-*   Implemented full stack features including **Stripe payments** and auth.
+### **answersmart**
+**Multi-Agent AI-Human Communication Platform**
+*Jun 2025 - Aug 2025 | Role: Team Project (AI and Backend Development)*
+- Developed backend for a platform managing AI and human agents across organizations to handle inbound/outbound voice communication.
+- Enabled AI agents to autonomously handle calls using custom guiding scripts to **ChatGPT**; routed unanswered queries to available human agents.
+- Implemented **lead generation** from conversation using RAG pipelines.
+- **Tools:** FastAPI, Twilio, WebSocket, WebRTC, ChatGPT API, ElevenLabs, Webhooks, Custom Tool Creation.
 
-#### **[answersmart](https://github.com/MehediHasan-ds)**
-*Backend & AI Engineer*
-*   Created a multi-agent platform for voice communication using **Twilio**, **WebRTC**, and **OpenAI**.
-*   Engineered autonomous AI agents that handle inbound/outbound calls.
+### **PsychoHealer**
+**AI-Powered Psychology Assistant**
+*Jun 2025 | Role: Individual Project*
+- Built an intelligent, privacy-first mental health assistant integrating **GPT-3.5, LLaMA 3.3, and DeepSeek** with automatic model selection.
+- Implemented crisis detection, session memory, and curated YouTube-based therapeutic content, accessible via web, API, and Telegram.
+- **Tools:** Python, FastAPI, LangChain, LLMs, Telegram Bot API, Async I/O, Mental Health Tech.
 
-#### **[PsychoHealer](https://github.com/MehediHasan-ds)**
-*AI Engineer*
-*   Privacy-focused mental health assistant using **DeepSeek** and **LLaMA 3**.
-*   Features crisis detection and therapeutic content recommendation.
+### **Sentiment Analysis using BERT, RoBERTa, Phi-2** (Research Project)
+*Nov 2023 – Dec 2023 | Role: Team Leader*
+- Developed a sentiment classification model using **BERT, RoBERTa, and Phi-2** with advanced preprocessing for high accuracy.
+- Designed a feature extraction pipeline with word cloud, bigram, and trigram analysis for deeper pattern insight.
+- Applied random oversampling and model-specific preprocessing.
+- **Key Technologies:** BERT, RoBERTa, Phi-2, Python.
+
+## Research & Publications
+
+**[PixieGPT: Design and Implementation of a Generative Pre-Trained Transformer for Universities of Bangladesh](https://www.preprints.org/manuscript/202402.1083)**
+*Mehedi Hasan, et al.*
+> Published in Preprints.org (2024). detailed the methodology for fine-tuning open-source LLMs for localized, low-resource institutional contexts.
 
 ---
 
-<p align="center">
-  <i>Let's build something amazing together.</i>
-</p>
+## Github Statistics  
+
+![Profile Views](https://komarev.com/ghpvc/?username=MehediHasan-ds&color=blue&style=flat)  
+
+---
+
+## Statistics  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
+
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=MehediHasan-ds&theme=dark&hide_border=false)
+
+---
