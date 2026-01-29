@@ -43,7 +43,7 @@ Leading end-to-end AI solution delivery by translating executive requirements in
 - Overseeing implementation, ensuring timely delivery, scalability, performance, and business impact.
 - Acting as team lead by mentoring developers, resolving technical blockers, and driving cross-team communication.
 
-### **Team Lead** | SM Technology
+### **Team Lead** | [SM Technology](https://smtech24.com/)
 *August 2025 – October 2025*
 
 Leading a cross-functional team of frontend, backend, and AI developers.
@@ -51,8 +51,8 @@ Leading a cross-functional team of frontend, backend, and AI developers.
 - Overseeing delivery of client solutions with a focus on performance, scalability, and business impact.
 - Mentoring junior developers and coordinating cross-team communication to meet project goals.
 
-### **AI Developer** | SM Technology
-*May 2025 – Present*
+### **AI Developer** | [SM Technology](https://smtech24.com/)
+*May 2025 – July 2025*
 
 Part of a cross-functional team building AI-powered business solutions across various industries.
 - Designed and developed AI applications end-to-end, integrating LLMs, RESTful APIs, and modern frontend interfaces.
@@ -66,30 +66,27 @@ Part of a cross-functional team building AI-powered business solutions across va
 
 ## Projects
 
-### **racoai.io**
-**RACOAI Website v1 & RacoChat Integration**
+### **racoai.io**: RACOAI Website v1 & RacoChat Integration
 *November 2025 | Role: Full-Stack AI Dev & Product Manager*
 - Designed and developed the full version-1 production website for **racoai.io** within 7 days.
 - Built and integrated **RacoChat**, an AI-powered conversational chatbot system for real-time natural language interaction as a SaaS product.
 - Developed client and project management modules with **Stripe payment**, enabling seamless internal workflows.
 - **Tools:** FastAPI, React.js, WebSockets, PostgreSQL, AI Chat Integration, Full-Stack Engineering.
 
-### **answersmart**
-**Multi-Agent AI-Human Communication Platform**
+### **answersmart**: Multi-Agent AI-Human Communication Platform
 *Jun 2025 - Aug 2025 | Role: Team Project (AI and Backend Development)*
 - Developed backend for a platform managing AI and human agents across organizations to handle inbound/outbound voice communication.
 - Enabled AI agents to autonomously handle calls using custom guiding scripts to **ChatGPT**; routed unanswered queries to available human agents.
 - Implemented **lead generation** from conversation using RAG pipelines.
 - **Tools:** FastAPI, Twilio, WebSocket, WebRTC, ChatGPT API, ElevenLabs, Webhooks, Custom Tool Creation.
 
-### **PsychoHealer**
-**AI-Powered Psychology Assistant**
+### **PsychoHealer**: AI-Powered Psychology Assistant
 *Jun 2025 | Role: Individual Project*
 - Built an intelligent, privacy-first mental health assistant integrating **GPT-3.5, LLaMA 3.3, and DeepSeek** with automatic model selection.
 - Implemented crisis detection, session memory, and curated YouTube-based therapeutic content, accessible via web, API, and Telegram.
 - **Tools:** Python, FastAPI, LangChain, LLMs, Telegram Bot API, Async I/O, Mental Health Tech.
 
-### **Sentiment Analysis using BERT, RoBERTa, Phi-2** (Research Project)
+### **Sentiment Analysis using BERT, RoBERTa, Phi-2**: Research Project
 *Nov 2023 – Dec 2023 | Role: Team Leader*
 - Developed a sentiment classification model using **BERT, RoBERTa, and Phi-2** with advanced preprocessing for high accuracy.
 - Designed a feature extraction pipeline with word cloud, bigram, and trigram analysis for deeper pattern insight.
@@ -99,7 +96,8 @@ Part of a cross-functional team building AI-powered business solutions across va
 ## Research & Publications
 
 **[PixieGPT: Design and Implementation of a Generative Pre-Trained Transformer for Universities of Bangladesh](https://www.preprints.org/manuscript/202402.1083)**
-*Mehedi Hasan, et al.*
+
+>Mehedi Hasan, et al.
 > Published in Preprints.org (2024). detailed the methodology for fine-tuning open-source LLMs for localized, low-resource institutional contexts.
 
 ---
