@@ -108,7 +108,6 @@ Part of a cross-functional team building AI-powered business solutions across va
 
 ---
 
-## Statistics  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MehediHasan-ds&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-ds&layout=compact&theme=radical)  
