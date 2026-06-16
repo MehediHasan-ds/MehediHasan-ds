@@ -66,25 +66,18 @@ Part of a cross-functional team building AI-powered business solutions across va
 
 ## Projects
 
-### **racoai.io**: RACOAI Website v1 & RacoChat Integration | [RACO AI](https://racoai.io)
-*November 2025 | Role: Full-Stack AI Dev & Product Manager*
-- Designed and developed the full version-1 production website for **racoai.io** within 7 days.
-- Built and integrated **RacoChat**, an AI-powered conversational chatbot system for real-time natural language interaction as a SaaS product.
-- Developed client and project management modules with **Stripe payment**, enabling seamless internal workflows.
-- **Tools:** FastAPI, React.js, WebSockets, PostgreSQL, AI Chat Integration, Full-Stack Engineering.
+### **Curr. Project: RACO-AGENT an In-house Agentic AI SaaS System**
+*Mar 2026 - Present | Agentic AI System Design, Backend & Infrastructure Engineering*
+- Converting **[RACO-CHAT](https://racoai.io/raco-chat)** into a production-grade **Agentic AI** system with distributed backend and GPU-based LLM infrastructure.
+- Deployed in-house LLM serving using vLLM on dedicated GPU servers for low-latency, scalable inference.
+- Built a multi-agent orchestration framework with routing, evaluator-in-loop, tool assignment, and workflow control.
+- Implemented multi-layer memory and RAG system using Qdrant and PostgreSQL with integrated tools for search, retrieval, and execution.
 
-### **Vosk Large vs Whisper Small Benchmark** | [Repository](https://github.com/MehediHasan-ds/vosk_large_whisper_small_benchmark.git)
-*ASR Model Evaluation Project* | *Dec 2025*
-- Conducted a comparative analysis between **Vosk Large** and **OpenAI Whisper Small** models for offline speech recognition.
-- Evaluated performance metrics including Word Error Rate (WER), inference speed, and resource consumption on diverse audio datasets.
-- **Key Technologies:** Python, Vosk, OpenAI Whisper, JiWER, Audio Processing.
-
-### **answersmart**: Multi-Agent AI-Human Communication Platform
-*Jun 2025 - Aug 2025 | Role: Team Project (AI and Backend Development)*
-- Developed backend for a platform managing AI and human agents across organizations to handle inbound/outbound voice communication.
-- Enabled AI agents to autonomously handle calls using custom guiding scripts to **ChatGPT**; routed unanswered queries to available human agents.
-- Implemented **lead generation** from conversation using RAG pipelines.
-- **Tools:** FastAPI, Twilio, WebSocket, WebRTC, ChatGPT API, ElevenLabs, Webhooks, Custom Tool Creation.
+### **[RACOAI.IO](https://racoai.io/)**: RACOAI Website & RacoChat Integration
+*Nov 2025 - Feb 2026 | Website is in continuous development (Product Manager & AI and Backend Engineering)*
+- Designed and developed the enterprise website for **racoai.io**. Designed the system architecture and implemented the whole backend and admin-side frontend.
+- Built and integrated **[RacoChat](https://racoai.io/raco-chat)**, an AI-powered conversational chatbot system for real-time natural language interaction as a SaaS product.
+- **Tools & Skills:** **FastAPI, React.js, PostgreSQL**, WebSockets, AI Chat Integration, Stripe Payment Subscription, Full-Stack Engineering.
 
 ### **PsychoHealer**: AI-Powered Psychology Assistant | [Repository](https://github.com/MehediHasan-ds/PsychoHealer.git)
 *Jun 2025 | Role: Individual Project*
