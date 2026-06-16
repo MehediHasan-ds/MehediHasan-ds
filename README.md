@@ -4,7 +4,6 @@
 
 [![Email](https://img.shields.io/badge/Email-mehedi.ds.engr%40gmail.com-red)](mailto:mehedi.ds.engr@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B8801857807034-blue)](tel:+8801857807034)
-[![GitHub](https://img.shields.io/badge/GitHub-MehediHasan--ds-black?logo=github)](https://github.com/MehediHasan-ds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehedi%20Hasan-blue?logo=linkedin)](https://linkedin.com/in/mehedi-hasan-ds)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-green)]()
 
